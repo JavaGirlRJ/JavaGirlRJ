@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JavaGirlRJ
-- 👀 I’m interested in back to a Java programmer; 
+- 👀 I’m interested in Java codes; 
 - 🌱 I’m currently studying programming.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
